@@ -1,2 +1,2 @@
 KotiTeht1/build/
-Kotiteht1/*.user
+KotiTeht1/*.user
