@@ -1,0 +1,2 @@
+KotiTeht1/build/
+Kotiteht1/*.user
