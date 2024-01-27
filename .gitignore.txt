@@ -1,2 +1,11 @@
 KotiTeht1/build/
 KotiTeht1/*.user
+
+KotiTeht2/build/
+KotiTeht2/*.user
+
+KotiTeht3/build/
+KotiTeht3/*.user
+
+KotiTeht4/build/
+KotiTeht4/*.user
