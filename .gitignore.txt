@@ -9,3 +9,9 @@ KotiTeht3/*.user
 
 KotiTeht4/build/
 KotiTeht4/*.user
+
+KotiTeht5/build/
+KotiTeht5/*.user
+
+KotiTeht6/build/
+KotiTeht6/*.user
